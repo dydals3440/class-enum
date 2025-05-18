@@ -38,3 +38,7 @@ yarn-error.log*
 
 # Jest
 .jest-cache/
+
+dist
+
+node_modules/
